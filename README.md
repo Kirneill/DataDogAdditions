@@ -2,6 +2,10 @@
 
 Portable agent skills and demo scenarios for Datadog — built for Sales Engineers who live in the terminal and work with AI coding assistants.
 
+<p align="center">
+  <img src="demos/demo.svg" alt="LLM Hallucination Detection Demo" width="900">
+</p>
+
 ## What's Here
 
 ### Agent Skills (`skills/`)
