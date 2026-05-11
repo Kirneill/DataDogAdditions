@@ -45,18 +45,6 @@ node demos/checkout-latency-spike.js
 node demos/llm-hallucination-detection.js --present
 ```
 
-### Interview Assets (`interview-prep/`)
-
-Structured preparation materials for the Datadog SE interview process:
-
-- **DEMO_SCRIPT.md** — Timed 10-minute demo script
-- **COMPETITIVE_MATRIX.md** — DD vs Splunk vs New Relic vs Dynatrace vs Grafana
-- **OBJECTION_HANDLING.md** — Top 15 objections with structured responses
-- **SOUTHCENTRAL_INTEL.md** — Territory verticals, key accounts, positioning
-- **TECHNICAL_DEEP_DIVES.md** — APM, LLM Observability, Cloud Security
-- **QUESTIONS_TO_ASK.md** — Smart questions for each interview round
-- **PRODUCT_CHEAT_SHEET.md** — 70+ products quick reference
-
 ## Quick Start
 
 ### Install Skills (Claude Code)
@@ -99,7 +87,6 @@ Based on patterns from [steipete/agent-scripts](https://github.com/steipete/agen
 ```
 skills/           → Agent skill definitions (SKILL.md + optional scripts)
 demos/            → Demo scenario scripts (Node.js, zero deps)
-interview-prep/   → Interview preparation documents
 scripts/          → Cross-agent installation scripts
 ```
 
